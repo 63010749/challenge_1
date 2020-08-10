@@ -21,4 +21,5 @@ int main() {
 		printf("\n");
 	}
 	printf("%.1f", average);
+
 }
