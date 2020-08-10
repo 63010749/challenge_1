@@ -16,6 +16,7 @@ int main() {
 	}
 	else {
 		for (i = i; i <= j;i++) {
+
 			printf("%d", i);
 		}
 		printf("\n");
